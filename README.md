@@ -28,3 +28,7 @@ Features to add:
 # 5 - Chat messages screen
 <img src="https://firebasestorage.googleapis.com/v0/b/shuttle-3608a.appspot.com/o/shuttle_github%2Fchat_messages.png?alt=media&token=986fa1fa-484b-444a-ab46-82fe1bf6de2b" target="_blank" alt="Main screen" width="315" height="700">
 
+# Screen Recording
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/shuttle-3608a.appspot.com/o/shuttle_github%2Flogin_play.png?alt=media&token=3c2b164b-b196-46f2-809d-af7661145812" target="_blank" alt="Main screen" width="315" height="700">](https://drive.google.com/file/d/1OI5C4dt934v4L0V-iTWNU82bbVmQ6Iyd/view?usp=sharing)
+
