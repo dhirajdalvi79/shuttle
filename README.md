@@ -1,16 +1,20 @@
 # shuttle
 
-A new Flutter project.
+This is a flutter chat app built with Bloc and Clean architecture.
 
-## Getting Started
+Features:
+- authentication
+- live text messaging
+- user status while chatting
 
-This project is a starting point for a Flutter application.
+Features to add:
+- reset/change password
+- sending media files
 
-A few resources to get you started if this is your first Flutter project:
+# Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 1 - Log in screen
+[<img src="https://firebasestorage.googleapis.com/v0/b/shuttle-3608a.appspot.com/o/shuttle_github%2Flogin.png?alt=media&token=fde45693-417f-4c9c-a72f-a21d5a22fa88" target="_blank" alt="Main screen" width="315" height="700">]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
