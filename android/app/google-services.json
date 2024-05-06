@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385843976838",
+    "project_id": "shuttle-3608a",
+    "storage_bucket": "shuttle-3608a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385843976838:android:a18605a7ac45a0f5dccf07",
+        "android_client_info": {
+          "package_name": "com.example.shuttle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxd8K7YOGsOOd7W71nTftVh99HB-WOFOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

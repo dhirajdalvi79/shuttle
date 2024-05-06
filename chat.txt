@@ -1,0 +1,13 @@
+ Text.rich(TextSpan(children: [
+                    TextSpan(
+                        text: '${messageEntity.senderName}@shuttle:~\$ ',
+                        style: const TextStyle(
+                          color: Color.fromRGBO(5, 208, 0, 1.0),
+                        )),
+                    const TextSpan(text: 'echo')
+                  ])),
+
+
+
+
+                     // final bool showSenderName = index == 0 || state.messages[index - 1].senderName != messageEntity.senderName;
